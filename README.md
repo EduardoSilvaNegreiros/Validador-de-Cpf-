@@ -20,9 +20,5 @@ O projeto é composto pelos seguintes arquivos:
 - `style.css`: Estilos para a apresentação visual da interface.
 - `index.js`: Contém a lógica de validação do CPF utilizando classes em JavaScript.
 
-## Como Usar
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/validador-cpf.git
    
